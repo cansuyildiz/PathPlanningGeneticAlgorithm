@@ -17,7 +17,7 @@
 
 ## Introduction
 
-This project includes two main topics: Genetic algorithm and path planning. These topics described on other headings. Examining these topics before continuing reading is recommended.
+This project includes two main topics: Genetic algorithm and path planning. These topics are described on other headings. Examining these topics before continuing reading is recommended.
 
 Assume that we have a mouse on centered of an image and the mice needs a food. We put the food on the upper left side of the world. World also include some obstacles. What our purposes are to see whether mices can find the path of the food and on which generation they can achieve.  
 
